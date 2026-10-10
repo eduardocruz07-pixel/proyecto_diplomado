@@ -1,1 +1,1 @@
-# proyecto_diplomado
+# trading_quant_system
